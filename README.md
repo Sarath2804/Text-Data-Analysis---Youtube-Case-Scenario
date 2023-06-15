@@ -19,4 +19,4 @@
 <img width="371" alt="image" src="https://github.com/Sarath2804/Text-Data-Analysis---Youtube-Case-Scenario/assets/95603007/3b49906b-dfd0-4838-8aee-d6c5c49f53a9">
 <img width="377" alt="image" src="https://github.com/Sarath2804/Text-Data-Analysis---Youtube-Case-Scenario/assets/95603007/39e0bd16-0a18-4d99-a0b9-3315013315f6">
 
-7. Outliers can be a real problem. We can see from the plot that there re so mant outliers present in this data. Overall the analysis came good and the result is for the youtuber to make more videos on the music genre then it will be having more views, likes, comments. 
+7. Outliers can be a real problem. We can see from the plot that there re so mant outliers present in this data. Overall the analysis came good and the result is for the youtuber to make more videos on the music genre then it will be having more views, likes, comments. Fter that Comedy genre and Movie videos comes. 
